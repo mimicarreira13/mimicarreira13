@@ -1,7 +1,7 @@
 
 # Hi there, I'm Milena! 👋🏽 👩🏽‍💻
 
-<img src="<!-- YOUR_BANNER_IMAGE_URL_HERE -->" alt="Milena Carreira banner" style="width:100%; border-radius: 10px;"/>
+<img src="./my_banner.png" alt="Milena Carreira banner" style="width:100%; border-radius: 10px;"/>
 
 🎓 Final-year Computer Engineering student at **Universidade da Madeira**  
 💻 Passionate about **fullstack development**, with growing interest in **mobile app development**  
