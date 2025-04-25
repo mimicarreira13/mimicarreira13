@@ -14,9 +14,9 @@ Let’s build cool stuff together! 🚀
 
 ---
 
-## 💼 Projects
+## 💼 Academic Projects
 
-### 🌱 [EcoLoop](https://github.com/mimicarreira13/Projeto-ER-24-25)  
+### 🌱 [EcoLoop](https://github.com/mimicarreira13/Projeto-ER-24-25) 
 A sustainable web platform for anonymous item exchange and donation.  
 Technologies: React, MongoDB
 
@@ -24,9 +24,15 @@ Technologies: React, MongoDB
 A platform with classic browser games, user accounts, and ranking system.  
 Technologies: Node.js, EJS, MongoDB
 
+&nbsp;&nbsp;&nbsp;
+
+## 🎧 Personal Projects
+
 ### 🎵 [Moodify](https://github.com/mimicarreira13/Moodify) *(in progress)*  
 Mobile app that builds playlists based on user mood using Spotify API.  
 Technologies: React Native, Expo, AsyncStorage
+
+&nbsp;&nbsp;&nbsp;
 
 > _P.S. You can find more of my projects in the pinned repos below!_
 
