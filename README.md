@@ -28,6 +28,8 @@ Technologies: Node.js, EJS, MongoDB
 Mobile app that builds playlists based on user mood using Spotify API.  
 Technologies: React Native, Expo, AsyncStorage
 
+> _P.S. You can find more of my projects in the pinned repos below!_
+
 ---
 
 ## 🛠️ Tech Stack
