@@ -3,9 +3,14 @@
 
 <img src="./my_banner.png" alt="Milena Carreira banner" style="width:100%; border-radius: 10px;"/>
 
-🎓 Final-year Computer Engineering student at **Universidade da Madeira**  
-💻 Passionate about **fullstack development**, with growing interest in **mobile app development**  
-🚀 Currently developing a mobile app that generates playlists based on mood using **React Native + Spotify API**
+I'm a final-year Computer Engineering student at Universidade da Madeira, with a love for building things — whether it's a sleek web app or a mobile project that makes life a little easier.
+
+I’m curious by nature, always up for a new challenge, and constantly looking for ways to grow and level up (both in tech and in life!).
+
+Right now, I'm working on a mobile app that creates playlists based on your mood using React Native and the Spotify API. 🎧✨
+
+I'm excited to keep learning, collaborate with awesome people, and turn ideas into real, working solutions.
+Let’s build cool stuff together! 🚀
 
 ---
 
