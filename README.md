@@ -1,45 +1,58 @@
-# 👋 Hi there, I'm Milena Carreira
 
-🎓 Final-year Computer Engineering student at the University of Madeira (UMa)  
-💡 Passionate about building meaningful tech, especially fullstack and mobile applications  
-🌱 Currently exploring mobile development with React Native  
-🎯 Future goal: pursue a Master's and create purposeful digital solutions
+# Hi there, I'm Milena! 👋🏽 👩🏽‍💻
 
----
+<img src="<!-- YOUR_BANNER_IMAGE_URL_HERE -->" alt="Milena Carreira banner" style="width:100%; border-radius: 10px;"/>
 
-## 🚀 Highlighted Projects
-
-### 🟣 Personal Projects
-
-- **[Moodify](https://github.com/mimicarreira13/Moodify)** – Mood-based mobile music player built with React Native & Expo. Generates curated playlists by mood.  
-  `react-native` `expo` `mobile-app` `spotify-api` `in-progress`
+🎓 Final-year Computer Engineering student at **Universidade da Madeira**  
+💻 Passionate about **fullstack development**, with growing interest in **mobile app development**  
+🚀 Currently developing a mobile app that generates playlists based on mood using **React Native + Spotify API**
 
 ---
 
-### 📘 Academic Projects
+## 🛠️ Tech Stack
 
-- **[EcoLoop](https://github.com/mimicarreira13/ecoloop)** – Platform for anonymous, secure, and sustainable resource reuse. Built for the Requirements Engineering course.  
-  `react` `mongodb` `sustainability` `prototype`
-
-- **[Classic Games Web](https://github.com/mimicarreira13/classic-games-web)** – Web platform with classic games like Tic Tac Toe, Memory, and Hangman. Includes authentication and user profiles.  
-  `web-app` `nodejs` `express` `mongodb` `games`
-
----
-
-## 🛠️ Technologies I Work With
-
-- **Frontend:** React, React Native, HTML/CSS, Bootstrap  
-- **Backend:** Node.js, Express  
-- **Database:** MongoDB (with Mongoose)  
-- **Tools & Platforms:** Git, GitHub, Expo, Render, Figma
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=000)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
 
 ---
 
-## 📫 Let's Connect
+## 📈 GitHub Stats
 
-- [LinkedIn](https://www.linkedin.com/in/milena-carreira-2a4599362?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1Iie9UfnTwC%2FXfregQoJlg%3D%3D)  
-- 📧 Email: milenacarreira13@hotmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mimicarreira13&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimicarreira13&layout=compact&theme=default" width="48%" />
+</p>
 
 ---
 
-> *\"Building meaningful software with real-world impact — and always learning along the way.\"*
+## 💼 Projects
+
+### 🌱 [EcoLoop](https://github.com/mimicarreira13/Projeto-ER-24-25)  
+A sustainable web platform for anonymous item exchange and donation.  
+Technologies: React, MongoDB
+
+### 🎮 [Classic Games Web](https://github.com/mimicarreira13/Projeto-DBW-23-24)  
+A platform with classic browser games, user accounts, and ranking system.  
+Technologies: Node.js, EJS, MongoDB
+
+### 🎵 [Moodify](https://github.com/mimicarreira13/Moodify) *(in progress)*  
+Mobile app that builds playlists based on user mood using Spotify API.  
+Technologies: React Native, Expo, AsyncStorage
+
+---
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/milena-carreira-2a4599362)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mimicarreira13)
+
+---
+
+> _"Building purposeful tech while learning every day."_ ☁️
