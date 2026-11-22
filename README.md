@@ -23,7 +23,7 @@ A web platform for maths learning that adapts exercise difficulty to the user's 
 Group project (4 members), presented at the XI Fórum da Empregabilidade. My part was the emotion detection module, built with React and face recognition libraries.
 Technologies: React, face recognition libraries
 
-### 🍃 NotToWaste
+### 🍃 [NotToWaste](https://github.com/mimicarreira13/NotToWaste)
 A web platform for managing and reducing food waste in restaurants, with user profiles, stock management, sustainability metrics and dashboards.
 Group project in which I was responsible for the front-end (React and TypeScript), sprint planning and task distribution. The backend is no longer operational.
 Technologies: React, TypeScript
