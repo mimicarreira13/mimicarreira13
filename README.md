@@ -18,7 +18,7 @@ Let's build cool stuff together! 🚀
 A sustainable web platform for anonymous item exchange and donation.  
 Technologies: React, MongoDB
 
-### 🧠 [Feeling Maths](https://github.com/LeoSousa155/Feeling-Maths)
+### 🧠 [Feeling Maths](https://github.com/mimicarreira13/Feeling-Maths)
 A web platform for maths learning that adapts exercise difficulty to the user's facial expressions, using real-time emotion detection through the webcam.
 Group project (4 members), presented at the XI Fórum da Empregabilidade. My part was the emotion detection module, built with React and face recognition libraries.
 Technologies: React, face recognition libraries
