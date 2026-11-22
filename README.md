@@ -28,7 +28,7 @@ A web platform for managing and reducing food waste in restaurants, with user pr
 Group project in which I was responsible for the front-end (React and TypeScript), sprint planning and task distribution. The backend is no longer operational.
 Technologies: React, TypeScript
 
-### 💧 [SaveDrop](https://github.com/mimicarreira13/SaveDrop/blob/main/README.md)
+### 💧 [SaveDrop](https://github.com/mimicarreira13/SaveDrop)
 A mobile prototype that promotes water saving through persuasive computing, gamification and eco-feedback. Developed for the Persuasive Computing course.
 Technologies: [add technologies]
 
