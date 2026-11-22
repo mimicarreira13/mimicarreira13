@@ -3,14 +3,12 @@
 
 <img src="./my_banner.png" alt="Milena Carreira banner" style="width:100%; border-radius: 10px;"/>
 
-I'm a final-year Computer Engineering student at Universidade da Madeira, with a love for building things — whether it's a sleek web app or a mobile project that makes life a little easier.
+I'm a Computer Engineering graduate from Universidade da Madeira, now doing my Master's in the same course. I love building things, whether it's a sleek web app or a mobile project that makes life a little easier.
 
-I’m curious by nature, always up for a new challenge, and constantly looking for ways to grow and level up (both in tech and in life!).
-
-Right now, I'm working on a mobile app that creates playlists based on your mood using React Native and the Spotify API. 🎧✨
+I'm curious by nature, always up for a new challenge, and constantly looking for ways to grow, both in tech and in life! Lately I've been especially interested in how AI can help solve real-world problems.
 
 I'm excited to keep learning, collaborate with awesome people, and turn ideas into real, working solutions.
-Let’s build cool stuff together! 🚀
+Let's build cool stuff together! 🚀
 
 ---
 
@@ -19,6 +17,20 @@ Let’s build cool stuff together! 🚀
 ### 🌱 [EcoLoop](https://github.com/mimicarreira13/Projeto-ER-24-25) 
 A sustainable web platform for anonymous item exchange and donation.  
 Technologies: React, MongoDB
+
+### 🧠 Feeling Maths
+A web platform for maths learning that adapts exercise difficulty to the user's facial expressions, using real-time emotion detection through the webcam.
+Group project (4 members), presented at the XI Fórum da Empregabilidade. My part was the emotion detection module, built with React and face recognition libraries.
+Technologies: React, face recognition libraries
+
+### 🍃 NotToWaste
+A web platform for managing and reducing food waste in restaurants, with user profiles, stock management, sustainability metrics and dashboards.
+Group project in which I was responsible for the front-end (React and TypeScript), sprint planning and task distribution. The backend is no longer operational.
+Technologies: React, TypeScript
+
+### 💧 SaveDrop
+A mobile prototype that promotes water saving through persuasive computing, gamification and eco-feedback. Developed for the Persuasive Computing course.
+Technologies: [add technologies]
 
 ### 🎮 [Classic Games Web](https://github.com/mimicarreira13/Projeto-DBW-23-24)  
 A platform with classic browser games, user accounts, and ranking system.  
